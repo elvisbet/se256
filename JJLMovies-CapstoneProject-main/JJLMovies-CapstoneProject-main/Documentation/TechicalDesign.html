@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technical Design</title>
+</head>
+
+<body>
+    <h1>JJL Films</h1>
+    <h1>Technical Design</h1>
+    <h2>Organization</h2>
+    <p>We will be keeping our site organized by keeping everything in separate files, for example having a style file for the site. Along with keeping each specific page of the website into its own folder, just so we all won’t get confused and have code
+        where code shouldn’t be. This way when we all work on the project at the same time, we won’t be confused as to what is what. This will let us work together smoothly and efficiently. We will also be organizing the file by their function. For example,
+        there will be a front-end file that contains all our html code and a backend file that contains all our scripts for connecting our site to the database.
+    </p>
+    <br>
+    <h2>File Names</h2>
+    <p>blueprint.php - This is not a part of the website itself. This will serve as the blueprint of the nav bar, top bar, and page layout. This will be used to more easily create new web pages by copying the default necessities. style.css - This is the
+        file we are storing all of our stylizing for the site. dbConnection.php , dbQuery.php - These two files will serve as our connection to the database with dbConnection serving to connect to it and dbQuery used to query the database with sql commands.
+        index.php - This is the first page that will display when you get into our site, it’ll display some highly rated user movies at that time. This is also the default home page for users not logged in. HomePage.php - This page is self-explanatory,
+        it’s our home page, our home feed will display recently uploaded movies from users you follow, if you are logged in that is the default page you will be taken to when you type the base site link. ProfilePage.php - This will be the page that displays
+        the user profile or another users profile depending on the php session vars that will tell the code to display by UserAccountID
+    </p>
+    <h2>Naming Conventions</h2>
+    <ul>
+        GetMovies() - Would be after the user fills out the form, the php will do the rest and display the information that the user put. Delete Movie() - If the user decides to get rid of the move you can just delete all the information about it. EditMovie()
+        - This function will allow users to edit their movies just in case a mistake is made. AddMovie() - This function allows users to add movies to our database SearchMovie() - This will allow a user to search for a specific movie they are looking
+        for. SortByGenre() - Allows a user to sort for movies by a specific genre GetReview() - This is us grabbing the review information and displaying it to the page DeleteReview() - Allows users to delete a review they made EditReview() - This function
+        will allow users to edit their reviews. AdReview()- A function for adding reviews AddUser() - For when a user creates their account it’ll add the user to our database. GetUser() - Grabbing and displaying a user's information for when it's going
+        to be edited. EditUser() - When a user wants to edit their page and profile this will allow them too. MovieID – Our movie id to keep movies separated MovieTite – Our title for the movies MovieDescription - Description of the movie MovieGenre –
+        Genres for our movies MovieCreator – Creators of the movies, most likely the user’s full name UserAccountID – This keeps track of our users, each created user has their own ID UserName – Username for the users UserPassword – Passwords for our
+        users
+    </ul>
+</body>
+
+</html>

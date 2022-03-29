@@ -1,0 +1,69 @@
+@charset "UTF-8"; 
+
+html, body {
+    margin:10px; 
+    height:100vh; 
+    background-image: linear-gradient(black, black); 
+   
+    
+}
+
+#container{
+    display: grid; 
+    grid-template-areas: "header header header header" 
+                           "bio bio bio bio" 
+                           "left left right right"
+                           "footer footer footer footer" ;
+    grid-template-columns: 24% 24% 24% 24%;
+   gap: 20px ;
+    padding:10px; 
+    height:90%; 
+    background-color: rgb(181, 159, 216);
+}
+
+#header{ 
+    grid-area: header; 
+    text-align: center; 
+    color: white; 
+    background-color: grey;
+    
+}
+
+#nav{
+   text-decoration:azure;
+} 
+
+#bio{
+    grid-area: bio; 
+    text-align:center;
+    
+    background-color:lightskyblue;
+}
+
+#p {
+        justify-content:center;
+}
+
+
+#left{ 
+    grid-area: left;
+    padding:5px;
+    background-color: whitesmoke;
+     
+}
+
+#right{
+    grid-area: right;
+    padding:5px;
+    background-color: whitesmoke;
+    
+}
+
+
+#footer{
+    grid-area: footer; 
+    background-color: whitesmoke;
+    color:white; 
+    padding:5px; 
+}
+

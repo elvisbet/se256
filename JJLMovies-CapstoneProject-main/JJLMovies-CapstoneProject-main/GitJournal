@@ -1,0 +1,2342 @@
+[33mcommit 6f6c37b56769a1b37814ee94c539978fa1f0844e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: be5610e 674d7f0
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 15 19:47:08 2022 -0400
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit be5610e41d45e41227441fb0dbeb1fd5a2b5bc54[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 15 19:46:56 2022 -0400
+
+    Added an add movie nav icon -Justin
+
+[33mcommit 674d7f0d53baa6c25ff830a604894d01cbcc5034[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Tue Mar 15 19:43:52 2022 -0400
+
+    jacob
+
+[33mcommit a0f9c4ad7bb814bc965a3e2b1238b37e122e3192[m
+Author: unknown <ekkibet@email.neit.edu>
+Date:   Tue Mar 15 19:30:57 2022 -0400
+
+    Elvis week 10
+
+[33mcommit f5fe866a82bf1abea745afac1a6f9075b83eaa1c[m
+Author: unknown <ekkibet@email.neit.edu>
+Date:   Tue Mar 15 19:24:22 2022 -0400
+
+    Elvis week 10
+
+[33mcommit 3ab8af060c1bdb66ecc902dc27c708930c239111[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 15 19:17:21 2022 -0400
+
+    Fixed navigation to now highlight the current page your on -Justing
+
+[33mcommit 444492130ac9392df19ef1311180f883fb3a07e9[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 15 19:03:51 2022 -0400
+
+    fixed signup -Justin
+
+[33mcommit 77a96223db423982993b44b3abf3bf17936bd05e[m
+Merge: 446c020 46eb2a9
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 15 19:03:32 2022 -0400
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 446c0206e4a3f7dec4359c9265f7a1d7f3c71ef9[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 15 19:03:26 2022 -0400
+
+    fixed signup -Justin
+
+[33mcommit 46eb2a96d303200c5ee0f0ae71d8339add922548[m
+Author: unknown <ekkibet@email.neit.edu>
+Date:   Tue Mar 15 18:59:24 2022 -0400
+
+    Elvis week 10
+
+[33mcommit e73113402f28fbd1da934bedc37a99aa3c7fe4a2[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 15 18:48:06 2022 -0400
+
+    Fix
+
+[33mcommit db230463cfebb0108b2112de1d0c89293ca1c875[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Tue Mar 15 18:45:02 2022 -0400
+
+    jacob
+
+[33mcommit eb4cde2aea3785cd061bc2b156e8d5467222d2e7[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 15 18:35:47 2022 -0400
+
+    small chagnes -Justin
+
+[33mcommit 855b91800d28c700ec08e6378fa280fb65398a4a[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 15 18:31:31 2022 -0400
+
+    small chagnes -Justin
+
+[33mcommit fdad54b090d563181ba751c57197b0be5c09d5df[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 15 18:31:16 2022 -0400
+
+    small chagnes -Justin
+
+[33mcommit 211ed7a6dd630e8efa08096e857dbcb596a8ede7[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 15 18:24:06 2022 -0400
+
+    Follower base functionality finished -Justin
+
+[33mcommit ce19d204c745d8eaed2e8bab2dd9ddd206d14ef8[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 15 17:55:37 2022 -0400
+
+    Update to user followers you can now follow an account -Justin
+
+[33mcommit aa8b3b0bc40a3f28893c60a17ca559017a3d71f6[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 15 14:21:50 2022 -0400
+
+    Profile folljower updates -Justin
+
+[33mcommit d42613c6a901812c4fc36cad4ba8987764a18df5[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 15 13:28:42 2022 -0400
+
+    Fix
+
+[33mcommit 20ed5d251486621de7e1dc60c8a7c6fb5fc907f0[m
+Merge: 7e98193 454db6a
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 15 13:26:55 2022 -0400
+
+    Fix
+
+[33mcommit 454db6a98039a59050dacb1ce1322cb63cec3e29[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Mar 15 12:56:35 2022 -0400
+
+    Temp fix
+
+[33mcommit 10b87bca024894afba482d5fbe3b0b9151b3b08e[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Mar 15 12:05:52 2022 -0400
+
+    elvis week 0
+
+[33mcommit 9d2c364236c769266a631d4134b25543195fd4f7[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Mar 15 11:49:22 2022 -0400
+
+    elvis week 0
+
+[33mcommit 27cabaffc8a5df5fab3b0eba3a2584c25fee6c24[m
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Tue Mar 15 11:39:54 2022 -0400
+
+    update
+
+[33mcommit e4c02bcbbcdec519f42b78f87ac5d96eb1871fec[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 15 03:42:11 2022 -0400
+
+    Fixed share btn visuals on profile page -Justin
+
+[33mcommit 7d133432490dea111e04ac728a57bb0cf86c247a[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 15 02:56:45 2022 -0400
+
+    Desktop Design for profile page finished -Justin
+
+[33mcommit a657d5b3d5656a5e3591754f7d7cc78aacf111c0[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 15 01:59:25 2022 -0400
+
+    Added delete movie functionality, fixed php headers to send to profile page, and fixed movie icons on profile page -Justin
+
+[33mcommit 838379a8315a3b5b6ceb9ea4a431a16d09a2c652[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 15 01:37:17 2022 -0400
+
+    Fixed delete movie query -Justin
+
+[33mcommit 69c6e3470318b3d52e26e483ddfc2fc1b6b336b5[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 15 01:29:31 2022 -0400
+
+    Fixed create movie page bugs -Justin
+
+[33mcommit c1bf0fd9ac9ff8f3ff6972d6bad342bb6e0f89fb[m
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Mon Mar 14 13:44:59 2022 -0400
+
+    update
+
+[33mcommit ca87eb725e4fd7d6084b3b449b21f95b81826606[m
+Merge: e0f7374 eb81f4d
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Mar 14 13:14:02 2022 -0400
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit e0f737485292c285b131c426251bab79e2e04399[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Mar 14 13:13:50 2022 -0400
+
+    Profile page updates -Justin
+
+[33mcommit eb81f4d8091e2a2b42de384be14bd94b5a7db010[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Mon Mar 14 13:10:36 2022 -0400
+
+    Elvis week 10
+
+[33mcommit 306ae5ab464e7fc839d951f0485b66346ceb5cfa[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Mon Mar 14 13:06:15 2022 -0400
+
+    Elvis week 10
+
+[33mcommit 11fa9af341332293e89d81cff85ba2b28317ec21[m
+Merge: fe5c6c0 7f9c937
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Mon Mar 14 12:55:21 2022 -0400
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit fe5c6c017b20a6225ac2a201ca50fdb9f44534ce[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Mon Mar 14 12:55:03 2022 -0400
+
+    Elvis week 10
+
+[33mcommit 7f9c937b58cc28efeb9f78dad0c79877f418c063[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Mon Mar 14 12:53:53 2022 -0400
+
+    Jacob
+
+[33mcommit 4e991916bd1d42e44c36abebc9632bce6227ebde[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Mon Mar 14 12:19:19 2022 -0400
+
+    Jacob
+
+[33mcommit 5615a5cfeac9f300914da165799e8e62454d91c8[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Mon Mar 14 12:00:31 2022 -0400
+
+    Jacob
+
+[33mcommit 9651db6640dfa58c4cdb4fa14401c103277ef499[m
+Merge: 5b0b1e9 f0f39ba
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Mar 14 11:59:14 2022 -0400
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 5b0b1e9f607629ab7a5f337c3779e988be776921[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Mar 14 11:59:07 2022 -0400
+
+    Fixed search bar result images -Justin
+
+[33mcommit f0f39ba4edc84cbbc86756115c09b554bcd21a31[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Mon Mar 14 11:50:42 2022 -0400
+
+    Jacob
+
+[33mcommit 5189e8b3cf89877be1acadb5698309bb3f2a9d75[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Mar 14 11:47:54 2022 -0400
+
+    Profile Page movie display fixes -Justin
+
+[33mcommit 1deebc7f457494473c467857eb9ecd82502bb687[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Mon Mar 14 11:38:59 2022 -0400
+
+    Jacob
+
+[33mcommit bb10c0625b517b2ae99eaee8046cee9d7c49a4d9[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Mar 14 09:03:19 2022 -0400
+
+    Edit feature updates -Justin
+
+[33mcommit 1e553ef645e4a885621f7a35495689848478ced5[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Mon Mar 14 06:46:42 2022 -0400
+
+    Working on MoviePageCrud, broken functionality but will continue to work on later -Justin
+
+[33mcommit 798e919e1a6ca9b95a29ea35b16e9654dc852bdc[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Sun Mar 13 17:05:35 2022 -0400
+
+    Jacob
+
+[33mcommit c1a608a4ffff71765c97d14bda47a5a3c86902f6[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Sun Mar 13 16:41:43 2022 -0400
+
+    Jacob
+
+[33mcommit 8c4d01c0bb9183cb6c9c1383f8ddc323062aa4b2[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Sun Mar 13 15:05:46 2022 -0400
+
+    Jacob
+
+[33mcommit f60ee0cf8d9d96da30c5ef7302f7256342cc9e45[m
+Author: lance lespinasse <buttonmasher123@yahoo.com>
+Date:   Sun Mar 13 14:58:51 2022 -0400
+
+    update
+
+[33mcommit b25640978f1d452b126d8a2c94d9a62d91a7885c[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Sun Mar 13 14:41:41 2022 -0400
+
+    Jacob
+
+[33mcommit f71ec3bae7dd370ef12f56909b081d3ea90fa44a[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Sun Mar 13 14:33:02 2022 -0400
+
+    Added Edit buttons to the profile page that now sends to the MoviePageCrud -Justin
+
+[33mcommit e494b2787f943067c165826104bf294d42b5fd3b[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Sun Mar 13 14:23:02 2022 -0400
+
+    Jacob
+
+[33mcommit 005bdf80dcd870a2e3c1b318f9caf9c1c2bfd0fd[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Sun Mar 13 13:56:06 2022 -0400
+
+    Updating movie page crud so I can go add edit button on profile page -Justin
+
+[33mcommit 48967f97fd7c4530e7ce6985307197814b759bbb[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Sun Mar 13 13:46:57 2022 -0400
+
+    Formatted and fixed MoviePageCrud (Not FInished with Edit and delete functionality) -Justin
+
+[33mcommit ef65e03a9a444fd3f3bb7f354afd67ca957081b9[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Sun Mar 13 13:27:16 2022 -0400
+
+    Fixed images to use the database images we've the users could previously upload rather than online links -Justin
+
+[33mcommit 71aa9ebcee9654ca4156d66cef042e79ad93e525[m
+Merge: 75f7ed6 360ebc4
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Mar 11 14:01:28 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 75f7ed6f004525f6e5716b9c52b7216c23cfafa3[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Mar 11 14:01:20 2022 -0500
+
+    Updates -Justin
+
+[33mcommit 360ebc4663cad8a67674202d07df45d55f4e03a4[m
+Merge: 79d3f0e bf9c3b3
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Fri Mar 11 14:00:51 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 79d3f0e34d1b3ebfbd1c22fe8573b6f508e18da2[m
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Fri Mar 11 14:00:45 2022 -0500
+
+    update
+
+[33mcommit bf9c3b3e23efeda7f00b94156c6b3bbf88d427a7[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Mar 11 14:00:32 2022 -0500
+
+    Elvis week 9
+
+[33mcommit 4eac4c209bc1d63a84ecc993ce7f9d80853f574c[m
+Merge: 91d2519 d624b7a
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Fri Mar 11 13:52:38 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 91d251924fe2777a04a6f6eb4def730a8d6c7c47[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Fri Mar 11 13:52:09 2022 -0500
+
+    Jacob
+
+[33mcommit d624b7a92bf0d1abaac4b4e0a07a89c0da676b8b[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Mar 11 13:46:19 2022 -0500
+
+    Elvis week 9
+
+[33mcommit 641c1b3002caac1799bbdae0923615a118877b57[m
+Merge: 06ed731 bd53a10
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Fri Mar 11 13:43:54 2022 -0500
+
+    Jacob
+
+[33mcommit 06ed731ee2a208e33876a0d0246441e0a6d1c6d0[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Fri Mar 11 13:42:29 2022 -0500
+
+    Jacob
+
+[33mcommit bd53a1070a62446fda6e95121fd9a37e85be7f68[m
+Merge: 62a8186 a106a31
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Mar 11 13:40:48 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 62a81860e98db80efc92505419397261d685584a[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Mar 11 13:40:35 2022 -0500
+
+    Updates -Justin
+
+[33mcommit a106a3138f3d9b9bf533ba70521023162368605a[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Fri Mar 11 13:37:19 2022 -0500
+
+    jacob
+
+[33mcommit a435e8ecc21a5e106570216b492d3aa33a0ceeac[m
+Merge: 2dd71bb ed67155
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Mar 11 13:26:32 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 2dd71bb1908b4608342b48420742a55a1ed2d26a[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Mar 11 13:26:06 2022 -0500
+
+    Elvis week 9
+
+[33mcommit ed671550a9fcdef7384ea8bc080307fe3de39e82[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Mar 11 12:30:21 2022 -0500
+
+    Add Movie Fixed -Justin
+
+[33mcommit a1850a2945241675bf58fcbe5b3ed9ff3cfd9452[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Mar 11 12:19:14 2022 -0500
+
+    Add movie fix -Justin
+
+[33mcommit 864e0586d4336a11ba658e995e0e4f6bb7b24ca0[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Mar 11 12:16:52 2022 -0500
+
+    Add movie fix -Justin
+
+[33mcommit a9d1a18a57943363d7b214072afa60e43d248501[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Mar 11 12:14:25 2022 -0500
+
+    Add movie fix -Justin
+
+[33mcommit c23486643655e28a253790d57aea85228c1612ae[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Mar 11 12:13:00 2022 -0500
+
+    Add movie fix -Justin
+
+[33mcommit f42ea0dae6689ba45cd47a3acbf8d14a4de77362[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Mar 11 12:10:36 2022 -0500
+
+    Add movie fix -Justin
+
+[33mcommit 9e993d6038da7231c2b70807029eaf1034cfec7b[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Mar 11 12:07:34 2022 -0500
+
+    Add movie fix -Justin
+
+[33mcommit 07a06ae643e546632f47460bc0529877e4f7fa67[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Wed Mar 9 14:07:19 2022 -0500
+
+    Quick update to the size of the fullscreen search bar -Justin
+
+[33mcommit f1d754ab426f8ab8fcfddffd7b5020349ac1bb3c[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Wed Mar 9 13:49:08 2022 -0500
+
+    Quick update to the size of the fullscreen search bar -Justin
+
+[33mcommit ce545c2586254dc94b552a37510c7bdb39bee242[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Wed Mar 9 13:46:20 2022 -0500
+
+    Changed search bar quality of life for small screens and mobile devices -Justin
+
+[33mcommit b706c8fd418aba153068546aaf2436534eda0da8[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 17:20:09 2022 -0500
+
+    Home feed update to match desired format -Justin
+
+[33mcommit 502e43ee0a1b72258e00bcc01db3f6dd99c9fa54[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 16:22:20 2022 -0500
+
+    Updated profile page and added proper functionality to movie ratings in db and website -Justin
+
+[33mcommit 2f7d54d5973a51c57f5b24d3af0d627eeed43885[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 15:42:08 2022 -0500
+
+    Search Bar fully functional -Justin
+
+[33mcommit 01b603f7dc14bd7ab1ff9136690dba92bb0489d7[m
+Merge: 8bf2723 d6c5f7f
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Mar 8 15:07:05 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 8bf27237bffaf1d00687413daabf0d29bad86ee3[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Mar 8 15:06:48 2022 -0500
+
+    Elvis week 8 day 2
+
+[33mcommit 7e981930461e7056c14cbd608abcff2a83687769[m
+Merge: 9f3f04c d6c5f7f
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 15:04:44 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 9f3f04cec007d2f68fa47bbe957ce481c589250f[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 15:04:35 2022 -0500
+
+    Search box updates -Justin
+
+[33mcommit d6c5f7f88b4bf107be15741e086d9c39b7c53ac6[m
+Merge: 4d5a864 eaee9b5
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Tue Mar 8 15:01:20 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 4d5a8642386ed0a0801d516a9295e7517877bb61[m
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Tue Mar 8 15:01:10 2022 -0500
+
+    update
+
+[33mcommit eaee9b506e8948bb9b9c0d3e9dc31ab809ba3c75[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Mar 8 14:54:52 2022 -0500
+
+    Elvis week 8 day 2
+
+[33mcommit 9d919501fcd154368b400bc41a31e7d5704c3651[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 14:44:31 2022 -0500
+
+    Header search box fix -Justin
+
+[33mcommit 664740a524261bc6ea22703377dc4f86948658b3[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Mar 8 14:25:52 2022 -0500
+
+    Elvis week 8 day 2
+
+[33mcommit 59e107ee8d899096e2a083225d819d0ad44ef25f[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Mar 8 14:00:24 2022 -0500
+
+    Elvis week 8 day 2
+
+[33mcommit 23010fbed962f33dd86493aab7af0e11be37c175[m
+Merge: cffd600 0ca392c
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 13:59:23 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit cffd600166c91686d066250211ebff241a9b51b9[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 13:59:13 2022 -0500
+
+    Justin
+
+[33mcommit 0ca392c1174edd4c03965d97488101679246033b[m
+Merge: a93bc26 01fb5ef
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Tue Mar 8 13:56:00 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit a93bc26435ebdb063c56c7198dd36eb18f74ebe9[m
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Tue Mar 8 13:55:53 2022 -0500
+
+     update
+
+[33mcommit 01fb5ef27064f18a43571e88cefe67f65e14a855[m
+Merge: 77eb2a6 4377281
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 13:54:17 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 77eb2a6b9e465ceac66f36328c14f05e375f0f70[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 13:54:14 2022 -0500
+
+    Justin
+
+[33mcommit 4377281e2b417d3b49ea26620a186835eed24c89[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Mar 8 13:51:39 2022 -0500
+
+    Elvis week 8 day 2
+
+[33mcommit 4df6b2e30e43297e64b562971a2697bc24e43cef[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 13:44:25 2022 -0500
+
+    More query fixes -Justin
+
+[33mcommit 9fa7416e79bd31a8e71f63315baf0d6ca02eb8c9[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 13:37:12 2022 -0500
+
+    profile page bootstrapping -Justin
+
+[33mcommit 1e3b8e712642f8d8eb8833dcdc4cb1513a3054fa[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 13:32:29 2022 -0500
+
+    profile page bootstrapping -Justin
+
+[33mcommit be1a1afeb134582f5d9af1ebf4018a4183ec9e46[m
+Merge: f4132cb 03f02e9
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Mar 8 13:16:06 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit f4132cbbb6dd90b4b7feca2050bfd3f660812ba8[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Mar 8 13:16:00 2022 -0500
+
+    Elvis week 8 day 2
+
+[33mcommit 03f02e928c6fdc808d185e7b7df0d8240e35001b[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 13:06:04 2022 -0500
+
+    More query fixes -Justin
+
+[33mcommit 058ed77a2cca44a3ef034e36b4296388303d8fab[m
+Merge: 7fa7f0f f916dda
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 13:02:01 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 7fa7f0f2c36000301543e483fa09c8952b90584a[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 13:01:57 2022 -0500
+
+    Query updates -Justin
+
+[33mcommit f916dda1aea45619470d6abbbadacc272cf17513[m
+Merge: fde6334 ce2303a
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Mar 8 13:01:05 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit fde6334eab10f135cd73ef33de6fecd770953ec3[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Mar 8 13:00:26 2022 -0500
+
+    Elvis week 8 day 2
+
+[33mcommit ce2303aeb575acde344a0e1ffe91d361da9d2454[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 12:57:42 2022 -0500
+
+    Search Updates -Justin
+
+[33mcommit 23afd622105004d46a60f465c349d1fabc63e447[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 8 12:44:25 2022 -0500
+
+    Search functionality updates and query fixes -Justin
+
+[33mcommit 7c7d32a883a27adf5b7372394ff6f7c89c63c399[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Mon Mar 7 21:30:08 2022 -0500
+
+    Fixed search box pop out functionality -Justin
+
+[33mcommit e7bdcb05766e6f0593896e33759d8364431ec2d6[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Mon Mar 7 21:03:16 2022 -0500
+
+    Removed repeat db query function -Justin
+
+[33mcommit b0b899ffd83f567a23c60395d0e773ce4bed7a64[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Mon Mar 7 19:55:31 2022 -0500
+
+    Search box updates -Justin
+
+[33mcommit 386055fb6f89bf51794befedaa9b53457518afac[m
+Merge: de0e926 ab554e2
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Mar 7 14:06:35 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit de0e926ab1836bdd34b362f73c2c22dd89253b74[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Mar 7 14:06:31 2022 -0500
+
+    Update to search results -Justin
+
+[33mcommit ab554e2c16793e9b80bd7899d147890612ac72b6[m
+Merge: fc7d0c8 c31ee96
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Mon Mar 7 14:04:16 2022 -0500
+
+    Jacob
+
+[33mcommit fc7d0c8943a9561f973d533071aed78356a5b856[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Mon Mar 7 14:02:32 2022 -0500
+
+    updates - jacob
+
+[33mcommit c31ee96e3b1595290e2b7aab66d3c39e43e403f5[m
+Merge: dad99d4 03f8611
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Mon Mar 7 13:57:26 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit dad99d40bfa2fbb08136a0ddef99230f705c82a8[m
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Mon Mar 7 13:57:12 2022 -0500
+
+    update
+
+[33mcommit 03f8611d1a0ef65ff6f6995957fac2aff3b91118[m
+Merge: a68f48e 41fd292
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Mon Mar 7 13:52:27 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit a68f48ed8a806def38da76ff6b7886406ae763d6[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Mon Mar 7 13:52:01 2022 -0500
+
+    Elvis week 9
+
+[33mcommit 41fd2920a06dd3a403236ab650f9b32549f3f067[m
+Merge: bc1a8c8 435b7c0
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Mon Mar 7 13:06:06 2022 -0500
+
+    updates
+
+[33mcommit bc1a8c809fe816dc56e53e9ad9aa65a96d5dce04[m
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Mon Mar 7 13:04:04 2022 -0500
+
+    updates
+
+[33mcommit 435b7c036a99420b4feea993950028b2c5485891[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Mon Mar 7 13:03:28 2022 -0500
+
+    added delete
+
+[33mcommit a18b41384641aa13624c7ad62e1e2fa3fb73dde1[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Mon Mar 7 11:58:35 2022 -0500
+
+    profilepage
+
+[33mcommit 0f93a5860a66ca747216981d9dcdb68d0bb18522[m
+Merge: 09b636a c84ccdc
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Mon Mar 7 11:35:18 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 09b636afc69e620cad244156e6b2fe8dcddfafd8[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Mon Mar 7 11:35:14 2022 -0500
+
+    jacob
+
+[33mcommit c84ccdc2589dba709a4088a3b640edfc4223f829[m
+Author: JRamosEEC <77292742+JRamosEEC@users.noreply.github.com>
+Date:   Mon Mar 7 08:21:29 2022 -0500
+
+    Update logoutPage.php
+
+[33mcommit e429b00e68b3bc43399d6811681f213e472f8aba[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Sun Mar 6 06:28:45 2022 -0500
+
+    Added queries to get user followers and following and added that data to profile page - Justin
+
+[33mcommit d7e8e0708aa498a5c349366c5c2561aec3fcd61e[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Sun Mar 6 05:39:37 2022 -0500
+
+    Changed background and made it tileable for different screen sizes -Justin
+
+[33mcommit a75f455491784668d87e27c33e52fa3c42b90a63[m
+Merge: 618d7b6 6513527
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Fri Mar 4 14:01:45 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 618d7b6ac47bcc6314021115315ed4ab2750c9ed[m
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Fri Mar 4 14:01:35 2022 -0500
+
+    update
+
+[33mcommit 651352786cc6209c5b9de2fd6171fbd99702f080[m
+Merge: c2ea546 67ef3da
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Mar 4 14:00:08 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit c2ea546aae2ad17f4b6c2dc5974f314ebe748f1d[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Mar 4 13:59:10 2022 -0500
+
+    Elvis week 8
+
+[33mcommit 67ef3da24a6849cc0fb6fab9b3a74c7d77d994ec[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Mar 4 13:55:18 2022 -0500
+
+    Profile Page updates -Justin
+
+[33mcommit 983a375113ea58c85cbcfc29fab53f9f71e97cdb[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Mar 4 13:28:37 2022 -0500
+
+    Fix login -Justin
+
+[33mcommit 24c81d1eababb1b35ae22ef6a6f73713eb019ad9[m
+Author: jabotelho <77286881+jabotelho@users.noreply.github.com>
+Date:   Fri Mar 4 13:19:29 2022 -0500
+
+    Update loginPage.php
+
+[33mcommit 5765e08260484b3c3b64ce79cda27cb049482594[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Fri Mar 4 12:23:46 2022 -0500
+
+    Updated login page
+
+[33mcommit 54aa90cd1b6c080190972b1fb4f48b37f9721b8a[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Fri Mar 4 01:55:33 2022 -0500
+
+    Just a test -Justin
+
+[33mcommit 695f102cc754f7102ee918dd338a814f946c8d16[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Fri Mar 4 01:53:11 2022 -0500
+
+    UserProfile updates set up page layout, fixed some db queries, and pulled user data on to profile page -Justin
+
+[33mcommit 928ba921188c19030118f4e0147a828d1d640ee9[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Fri Mar 4 00:35:24 2022 -0500
+
+    Expand content on smaller screen sizes -Justin
+
+[33mcommit aad11c7b7d67d2ad2e97ebddc50f3f217ae6e7e4[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Fri Mar 4 00:29:22 2022 -0500
+
+    Minor aesthetic changes -Justin
+
+[33mcommit 548ce13c4c054d0deb5fb90c2ca82fa225a80632[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Fri Mar 4 00:26:49 2022 -0500
+
+    Minor aesthetic changes -Justin
+
+[33mcommit 9a7cffd7d951061e79952fcf782ba4fbf73eda50[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Fri Mar 4 00:12:52 2022 -0500
+
+    Add padding to make room for scrollbar and remove on mobile -Justin
+
+[33mcommit b88910825d5e78b8b50ffba1df3a679e2e348057[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Fri Mar 4 00:02:27 2022 -0500
+
+    Minor tweaks -Justin
+
+[33mcommit f292a913b692d99eddbc58ca81db12ea80ef44da[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Thu Mar 3 23:50:42 2022 -0500
+
+    Navigation is now fixed position for the static bar and sticky for the top bar and no longer stuck to the webpage this resolves scrolling bugs on mobile -Justin
+
+[33mcommit 18baaa3901a8fc42a7d2542737e799c6d96fdfe8[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 17:18:06 2022 -0500
+
+    Work In Progress Update of fixed position header bar to resolve scrolling issues -Justin
+
+[33mcommit 55d5216c653fd0120cc981823933215364be7657[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 17:02:12 2022 -0500
+
+    Bug fixing almost complete -Justin
+
+[33mcommit 5b1bceacf1ba9a8bdeb41aa4191454d6e51e0112[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:59:05 2022 -0500
+
+    Bug fixing almost complete -Justin
+
+[33mcommit 4ff9804e10ea9f30ef5e45edafcaecb2c4e23361[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:50:39 2022 -0500
+
+    Bug fixing almost complete -Justin
+
+[33mcommit e0ad69c4646d18c61468159b40577fbfa5e1c3de[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:48:55 2022 -0500
+
+    Bug fixing almost complete -Justin
+
+[33mcommit aaaa794d9cb9bbf65dc0ae88f3e55068a43c4602[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:40:48 2022 -0500
+
+    Bug fixing almost complete -Justin
+
+[33mcommit 55e0447cff4a089befdcd731bc30e61ee73dff48[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:38:52 2022 -0500
+
+    Bug fixing almost complete -Justin
+
+[33mcommit 3dbc2e1826fd73d87ffd9bd7a54dd304c00359a3[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:35:08 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit 8babc35f26f22623be37b69f0ceafef03dac210c[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:33:16 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit 4896aab6b3d09da84d9537f8bebf84d7d5600e2d[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:31:30 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit b0054a889f5f15ff3fcef9f40b7528a659b8e199[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:30:25 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit cdb4833026ccff6445f83962c884fc69acdddb84[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:29:57 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit e097d810241d7147c16f4b785f2bc75fbd3a79ae[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:29:21 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit 3d5f7be902aced79edef8eb3652d73f1a820956b[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:28:25 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit 4d983e48a52f7d337640deabb1a3a964b951f131[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:27:05 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit 735c02aed5980e0e2abefc215e47943204bd63cc[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:26:21 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit c05d9c4fa7b031c6f929443c1a45c697d6cc673e[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:25:22 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit ee6c129fc1554bbe4a2b99af27f2c88783daa6e5[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:24:20 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit ac7f9d36dbd1c1cce11d13d8e79436ac9ab6839d[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:19:49 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit 348b0fbd807a08ebacf7901727faa64443ccd259[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:15:22 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit 1b4f65d3fc9321d8b2d72eb13e072b6bea660061[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:14:13 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit d15d21d4435214ef49feaa0df8048a1b04dfae29[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:13:23 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit 814058b3cf3a38b326221bcd5600040523e6ed89[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:12:15 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit f52876f2b72717d2200a8d7f8fad003518280e8f[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:11:58 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit 381c0112c9929334f091b6c00b6ecbdfea3905a9[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:09:50 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit a390acd7143244a694be8861faf596a3cfe1e26e[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 16:00:14 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit 8bf00b4121bfd21be187d46397ba413d78001d19[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 15:59:44 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit 89fd3187a27e6695f83423968802ced0f53c606b[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 15:51:20 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit 03967e5f8ccd5e6cd7611ce7333af654052b4392[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 15:47:40 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit 22fbfd1be02defbcdd474519f927310964d7b3c8[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 15:37:03 2022 -0500
+
+    Bug fixing -Justin
+
+[33mcommit c492997b556934972feb69d1cfcfdbe95a22cd01[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 15:31:21 2022 -0500
+
+    Change screen size responsivity to base off screen height and changed pad and margin amounts -Justin
+
+[33mcommit 433120c820863d25662a8562ad7c39a471df576e[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 15:27:19 2022 -0500
+
+    Final scroll update -Justin
+
+[33mcommit ecfa7a8acf34dc32cb16f810bff788d6b6fe444b[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 15:25:51 2022 -0500
+
+    Final updates to scrolling -Justin
+
+[33mcommit b7d4dfcc76bafd0595870fab6ae997419906e799[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 15:24:27 2022 -0500
+
+    Test scroll update 2 -Justin
+
+[33mcommit db7293d081ee0ce8403b89b52c035025def9fd7e[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 15:20:15 2022 -0500
+
+    test fix the scrolling issue -Justin
+
+[33mcommit e4e8f2f16f3a255c909bcf47f75bb9d9f023cb02[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Mar 3 15:18:11 2022 -0500
+
+    Fixed Mobile view not being able to scroll low enough to log in -Justin
+
+[33mcommit 9a663a262dc885e6638b5eba4c39a39fc4e129c9[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Wed Mar 2 14:19:47 2022 -0500
+
+    Added Scrolling to content div id to resolve issues of pages without a container box like login and signup not being able to scroll -Justin
+
+[33mcommit 48d12daa67f2ae1d356401330e07f97104a173fb[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Wed Mar 2 13:35:04 2022 -0500
+
+    Standardized all buttons for consistency -Justin
+
+[33mcommit b4229365d9e66aabb43d22ddbbac29b012c8afba[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Wed Mar 2 12:38:00 2022 -0500
+
+    Logged in icon sends to profile page and added log out functionality along with user information session variables for the profile page -Justin
+
+[33mcommit f89b79b5ea4ba8b61bc1559205bb54b85fc98b4d[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Wed Mar 2 12:21:20 2022 -0500
+
+    Fixed log in features and added a log in indicator to the header with the profile icon - Justin
+
+[33mcommit 02339d4737c049707bb3acf3a541e5eb88487929[m
+Merge: 39e2a81 8afe658
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 1 16:59:53 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 39e2a81616e8220ae9f0decdc558c5b8d239f2c5[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 1 16:59:42 2022 -0500
+
+    Update home feed details to a rough draft state -Justin
+
+[33mcommit 8afe6581768b6d95d9d1ab6ca56840573192f681[m
+Merge: 9efdbb8 c8862a7
+Author: lance lespinasse <buttonmasher123@yahoo.com>
+Date:   Tue Mar 1 16:50:00 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 9efdbb8ecb798cd2a6cf615f68cd9fff63618cb0[m
+Author: lance lespinasse <buttonmasher123@yahoo.com>
+Date:   Tue Mar 1 16:49:46 2022 -0500
+
+    update allowing to add movie still needs work
+
+[33mcommit c8862a7ab7cd4b05f789a5edc71b6f08fc629d67[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 1 16:35:44 2022 -0500
+
+    Minor updates to css -Justin
+
+[33mcommit bf0cbb2c260040c6acf4105e6aa030e309d99705[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 1 16:26:41 2022 -0500
+
+    Home page responive design changes -Justin
+
+[33mcommit 6ad66b8606bee0506e57a389a56b38dd5752e0d0[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 1 15:14:39 2022 -0500
+
+    Nothing changed just removing white space in files -Justin
+
+[33mcommit a07e0dedd20057f0453b3470fa16e209703498d6[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 1 14:42:46 2022 -0500
+
+    Update header search bar to a rough draft of the wireframe model -Justin
+
+[33mcommit 83e889eb7d2662f9cda39d3416ed2cb3bbfe95c8[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 1 14:09:57 2022 -0500
+
+    minor session changes -Justin
+
+[33mcommit 2ea88e040110cf546b6d39e7baa550ba631b9af8[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Mar 1 14:03:26 2022 -0500
+
+    week 8 Elvis
+
+[33mcommit 9adf031acd7759ace237496a6f18521a2d93c90f[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 1 13:11:45 2022 -0500
+
+    Added session variables and added User logged in session
+
+[33mcommit 31fe39e6709a593d10333d931369f70a1c9fb9ba[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Mar 1 12:00:48 2022 -0500
+
+    css fix -Justin
+
+[33mcommit e04ef8ee4ddf273aea2e7cc0adb0aef03d61b49a[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Tue Mar 1 00:56:28 2022 -0500
+
+    Fixed Navigation on all pages, Reformatted most code, Grouped query calls by like function, Split css files into associacted blueprints for header and navigation, and fixed sql code and css code where it was needed -Justin
+
+[33mcommit cd197138dcb8c547998051a1b0a5dc436e663347[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Mon Feb 28 22:54:48 2022 -0500
+
+    Removed static nav on small screen sizes eg phones -Justin
+
+[33mcommit 3599ca0ef0d9298b5af16a2cc1c72f9392cf50a0[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Mon Feb 28 22:47:42 2022 -0500
+
+    Fixed spacing issues in navbar -Justin
+
+[33mcommit 053f058a266f56f9abbc646c14fe4bb297ea4a0f[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 28 13:51:22 2022 -0500
+
+    Header Bar updates -Justin
+
+[33mcommit ea44dd83a102f31a10c35ae63b7de0bac5f054a1[m
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Mon Feb 28 13:50:28 2022 -0500
+
+    update
+
+[33mcommit 058230ffa25be5ead23f6126170da8959515432c[m
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Mon Feb 28 13:44:10 2022 -0500
+
+    update
+
+[33mcommit e469053b967503cbc8a29bb47bd809e8a5e32727[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Mon Feb 28 13:35:22 2022 -0500
+
+    Jacob finished login
+
+[33mcommit 8df6a6a27c42d60358c02b5e67abfe6c88d78df4[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Mon Feb 28 13:32:44 2022 -0500
+
+    Elvis week 8
+
+[33mcommit 6256fb1dee168588d4a832d14fadf7210936b362[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Mon Feb 28 12:27:29 2022 -0500
+
+    Jacob Login
+
+[33mcommit ae442c50660ad6ed355234cf16c533e14819c964[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 28 12:25:50 2022 -0500
+
+    SQL More Fixes
+
+[33mcommit a9df82d48019eb664273f019139b893495119635[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 28 12:13:03 2022 -0500
+
+    SQL Query additions and fixes -Justin
+
+[33mcommit 7dfe6b8f30ee78c432c37146d20686ec6a2d823d[m
+Merge: 97c6679 684610d
+Author: lance lespinasse <buttonmasher123@yahoo.com>
+Date:   Fri Feb 25 14:03:31 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 97c6679c137065c5bfe58b7216795cf15edde75b[m
+Author: lance lespinasse <buttonmasher123@yahoo.com>
+Date:   Fri Feb 25 14:03:18 2022 -0500
+
+    update
+
+[33mcommit 684610d6e75225c33cf0c856f1b79ac8c8fdaa10[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Fri Feb 25 14:02:58 2022 -0500
+
+    Header rework (Update) -Justin
+
+[33mcommit e443289ca5c4e76c7dafa80fa141f55f00c28904[m
+Merge: 7f15306 541c389
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Fri Feb 25 14:02:08 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 541c389ea229900e6d7c30c9b1a3c5472c138714[m
+Author: unknown <ekkibet@email.neit.edu>
+Date:   Fri Feb 25 13:58:02 2022 -0500
+
+    Elvis week 7
+
+[33mcommit b6b5006eb8ffdecf46845a2b415f63cbc3e441cc[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Fri Feb 25 13:45:22 2022 -0500
+
+    Reworking header: update -Justin
+
+[33mcommit 7f15306997779a05b10fd38999af6b8451aa129d[m
+Merge: ae1582f ce749cd
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Fri Feb 25 13:04:12 2022 -0500
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+[33mcommit ae1582f5a09244be11e29bd8303ce00886f81238[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Fri Feb 25 13:04:05 2022 -0500
+
+    Jacob
+
+[33mcommit ce749cd0c8a1cf0605a895758114ccd67a1cb290[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Fri Feb 25 12:33:22 2022 -0500
+
+    Added static navbar -Justin
+
+[33mcommit 42f1f1e771abfa1d55334e24b05b0877869a06c5[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Feb 24 17:21:51 2022 -0500
+
+    Update -Jusitn
+
+[33mcommit a48f6d1bab2376c724040c640e311a580d09c26f[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Feb 24 17:12:12 2022 -0500
+
+    Renamed Nav BP File (Note this is to make room for a static and dynamic nav one that pops out and one that stays) - Jusitn
+
+[33mcommit 4331c81d47625b5a2d48244c5ba42cc533e8399a[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Feb 24 16:54:57 2022 -0500
+
+    More Nav Reworks -Justin
+
+[33mcommit 9022394147a68f05f2e95a04efa03dba5ac2a4f0[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Thu Feb 24 02:16:11 2022 -0500
+
+    Reworked nav bar -Justin
+
+[33mcommit 576d5a40946ce94cc66471944f7c6725d84b4308[m
+Merge: 891c3fd b18726d
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Feb 22 14:50:09 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 891c3fdeccc75b1526e00c35ccd4c9f2865c6fbd[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Feb 22 14:49:58 2022 -0500
+
+    Week 7 Elvis
+
+[33mcommit b18726d73652eb055688bff7a2dfd8d021a19820[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 22 14:48:16 2022 -0500
+
+    changes -Justin
+
+[33mcommit 98ecd47fce43085a044f596034a9efcdae3237c8[m
+Merge: a6c00e9 a8c07dd
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Tue Feb 22 14:46:24 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit a6c00e9bed6cb44aa94fc1497820c80741a0a1ec[m
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Tue Feb 22 14:46:07 2022 -0500
+
+    update
+
+[33mcommit a8c07dd30d6e969f8967517b241559f4dd44b0b4[m
+Author: jabotelho <77286881+jabotelho@users.noreply.github.com>
+Date:   Tue Feb 22 14:37:27 2022 -0500
+
+    Update MoviePageCRUD.php
+
+[33mcommit 22d765dede2d5ac94e2125b495a3c9beec1b8194[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Feb 22 14:08:50 2022 -0500
+
+    Week 7 Elvis
+
+[33mcommit 6037aa1197e477a6cc60e7ea154382f035c95d7d[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Feb 22 13:24:04 2022 -0500
+
+    Week 7 Elvis
+
+[33mcommit fa8f53f0f41227703da5193cceacf529b17190bc[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Feb 22 12:37:15 2022 -0500
+
+    Week 7 Elvis
+
+[33mcommit 1332da03e550057b1535cab59f006b71431e5e6c[m
+Merge: 109800a d9970b8
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Feb 22 12:34:06 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 109800a47cb375c2be11ba5b00f400a8384a5d24[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Feb 22 12:33:38 2022 -0500
+
+    Week 7 Elvis
+
+[33mcommit d9970b8ad9b239845add0739c4a5f503db37a88f[m
+Merge: a4e2c61 f389a83
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Tue Feb 22 12:32:50 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit a4e2c6167646a09c382b8261d9fedf0fd8f46109[m
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Tue Feb 22 12:32:19 2022 -0500
+
+    update
+
+[33mcommit f389a83067dd4b2525f261586e0092a6c27b814a[m
+Merge: 810b204 8c39aeb
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Feb 22 12:21:29 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 810b20491784b39060af71f266d0dc383277b066[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Feb 22 12:20:55 2022 -0500
+
+    Week 7 Elvis
+
+[33mcommit 8c39aeb157be06e605f03f50bc72262f1dfeb5e0[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 22 12:19:46 2022 -0500
+
+    merged the add edit and delete movie page -Justin
+
+[33mcommit c0228b6dbaaf395f618c47b64bd2ba2d5b1668a1[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 22 12:19:02 2022 -0500
+
+    merged the add edit and delete movie page -Justin
+
+[33mcommit 530609706c852d0718263ed733af9467af4bc81c[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Feb 22 12:11:10 2022 -0500
+
+    Week 7 Elvis
+
+[33mcommit 1886e65912cb5b16a35ad30e6d954e89e7c23f62[m
+Author: jabotelho <77286881+jabotelho@users.noreply.github.com>
+Date:   Tue Feb 22 11:38:06 2022 -0500
+
+    Update dbQuery.php
+
+[33mcommit 2f993652d80f30a158e6eb30598ff672c11cab58[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Feb 18 14:06:03 2022 -0500
+
+    elvis fix error
+
+[33mcommit e8cca9e32888a972345c6f9826254aa1a3b63f22[m
+Merge: a720847 db8f0d9
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Feb 18 14:03:08 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit a720847271319f26c5d28cb1e83daaf1b64841bd[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Feb 18 14:02:57 2022 -0500
+
+    Week 6 Elvis
+
+[33mcommit db8f0d989faf6e9b65909a3d0478e454659f412e[m
+Merge: 4cf4f1b 6e5e1ae
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Fri Feb 18 14:02:16 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 4cf4f1b5bc436772f24c6601c42d19a4e6e4c944[m
+Merge: 402d73b 1801229
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Fri Feb 18 14:02:04 2022 -0500
+
+    update
+
+[33mcommit 1801229a7b32978c979c4510b84b64bb17ba98d1[m
+Author: elvisbet <59568319+elvisbet@users.noreply.github.com>
+Date:   Fri Feb 18 14:01:46 2022 -0500
+
+    Update style.css
+
+[33mcommit 6e5e1aeeec7ff22878c30fbbb9e895edf083c569[m
+Merge: 5bb6ccb 1801229
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Feb 18 14:01:19 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 5bb6ccbd8cf1c51773064b19428764305b19b850[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Feb 18 14:01:14 2022 -0500
+
+    Week 6 Elvis
+
+[33mcommit a5fe5f8e989982c41e769c5300ccc40f0fe15440[m
+Merge: 0f31d88 7ff1b33
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Feb 18 13:56:30 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 7ff1b33d7863699352be822937318389d6a45cd1[m
+Author: JRamosEEC <77292742+JRamosEEC@users.noreply.github.com>
+Date:   Fri Feb 18 13:56:50 2022 -0500
+
+    Update style.css
+
+[33mcommit 0f31d887758397b97013ba35de6400232a03024e[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Feb 18 13:56:26 2022 -0500
+
+    Css Changes -Justin
+
+[33mcommit 402d73ba1a93e7f737366d90af6080d2605537be[m
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Fri Feb 18 13:56:10 2022 -0500
+
+    update
+
+[33mcommit e4b32ec64b32a9a06a8c28470c7a1e5a921a3f41[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Feb 18 13:43:24 2022 -0500
+
+    I pushed your change -Justin on Elvis's acnt :)
+
+[33mcommit bfba0b999d88be67855bb5ce23416fa16b0bc8f3[m
+Merge: 55d3a1d 6b3cc44
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Feb 18 12:51:52 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 55d3a1d155c18d0371d80110f2087b23f5a9aacc[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Feb 18 12:51:39 2022 -0500
+
+    Week 6 Elvis
+
+[33mcommit 6b3cc44fa9d5d1b633de36884e219745fcdd33e8[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Feb 18 12:40:08 2022 -0500
+
+    update
+
+[33mcommit dbd41a6d968d7f10421c580d584502233525f7d4[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Feb 18 12:39:22 2022 -0500
+
+    Week 6 Elvis
+
+[33mcommit 8541ee014a7f04c554939ee6c0e3b662323f8086[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Feb 18 12:38:53 2022 -0500
+
+    fixed css -Justin
+
+[33mcommit 35c6d6ed328948a7ef912301227718835a75d393[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Feb 18 12:37:40 2022 -0500
+
+    Week 6 Elvis
+
+[33mcommit 2341925ce990809d49c93f3932768f1909a62d1f[m
+Author: elvisbet <59568319+elvisbet@users.noreply.github.com>
+Date:   Fri Feb 18 12:36:43 2022 -0500
+
+    Update highlightsPage.php
+
+[33mcommit 247e336f57bc1a377afa508d91287c609c7877b1[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Feb 18 12:31:20 2022 -0500
+
+    css and homepage tweak -Justin
+
+[33mcommit 6e5eacef5929883c2ba8db7b72b0157b2e3b304e[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Feb 18 12:20:47 2022 -0500
+
+    Fixed page titles -Justin
+
+[33mcommit 330cbf2d4bd4d2ccec6427f1844512aa8a8755b7[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Feb 17 17:13:37 2022 -0500
+
+    Fixed Page Titles and minor formatting fixes -Justin
+
+[33mcommit be2b056434fd44cdee8ddb02a40a567e1428d5e0[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Feb 17 16:55:43 2022 -0500
+
+    Trying to reset heroku cause it never loads css right :P
+
+[33mcommit 1b00ef66b418040a96509322068f56e03edec427[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Feb 17 16:49:59 2022 -0500
+
+    Reworked Homepage scrolling -Justin
+
+[33mcommit b3e3d4f8ef9386dd36bb097af1962a5f95d5cd5c[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Thu Feb 17 16:35:15 2022 -0500
+
+    Reworked HomePage -Justin
+
+[33mcommit f6f1f4892ae6f4657f96fe4cd3c341de9df2d4b2[m
+Author: JRamosEEC <77292742+JRamosEEC@users.noreply.github.com>
+Date:   Tue Feb 15 12:45:08 2022 -0500
+
+    Update homePage.php
+
+[33mcommit 40d1640e7a85dc81b31b1551bc8eee8ffd9da136[m
+Author: elvisbet <59568319+elvisbet@users.noreply.github.com>
+Date:   Tue Feb 15 12:41:52 2022 -0500
+
+    Update style.css
+
+[33mcommit f9f21b9b73bc81ca16a4222aa740d043dd5a0d5a[m
+Author: elvisbet <59568319+elvisbet@users.noreply.github.com>
+Date:   Tue Feb 15 12:39:35 2022 -0500
+
+    Update homePage.php
+
+[33mcommit e266edd0dc971701f69f996ce001d5d0daa9b526[m
+Author: elvisbet <59568319+elvisbet@users.noreply.github.com>
+Date:   Tue Feb 15 12:37:52 2022 -0500
+
+    Update homePage.php
+
+[33mcommit 6384498806c0284e9f965e300b2fa02399b57498[m
+Author: elvisbet <59568319+elvisbet@users.noreply.github.com>
+Date:   Tue Feb 15 12:35:40 2022 -0500
+
+    Update homePage.php
+
+[33mcommit b09ad7947f358f26856b9288bd1530e17007610c[m
+Author: JRamosEEC <77292742+JRamosEEC@users.noreply.github.com>
+Date:   Tue Feb 15 12:33:43 2022 -0500
+
+    Update signupPage.php
+
+[33mcommit de37caea966f6bd46b228527320a8396c97de766[m
+Author: JRamosEEC <77292742+JRamosEEC@users.noreply.github.com>
+Date:   Tue Feb 15 12:30:17 2022 -0500
+
+    Update loginPage.php
+
+[33mcommit ca492b5d52fd8bdd0edf83b5de258cca685f624d[m
+Author: JRamosEEC <77292742+JRamosEEC@users.noreply.github.com>
+Date:   Tue Feb 15 12:29:29 2022 -0500
+
+    Update loginPage.php
+
+[33mcommit 259b5828259cf18ee59ff1c6e343e8958394cf4b[m
+Author: JRamosEEC <77292742+JRamosEEC@users.noreply.github.com>
+Date:   Tue Feb 15 12:27:51 2022 -0500
+
+    Update loginPage.php
+
+[33mcommit 5ec5f561ff3bb949db7d08fbcba9ee69375f006c[m
+Author: JRamosEEC <77292742+JRamosEEC@users.noreply.github.com>
+Date:   Tue Feb 15 12:26:35 2022 -0500
+
+    Update loginPage.php
+
+[33mcommit 77ec3ea89574c46fbd26a43c8d8559a87589488c[m
+Author: JRamosEEC <77292742+JRamosEEC@users.noreply.github.com>
+Date:   Tue Feb 15 12:25:06 2022 -0500
+
+    Update loginPage.php
+
+[33mcommit 4976b47ca9ee003bc43b9406e174de9f60542b61[m
+Author: JRamosEEC <77292742+JRamosEEC@users.noreply.github.com>
+Date:   Tue Feb 15 12:24:01 2022 -0500
+
+    Update loginPage.php
+
+[33mcommit f9ab48908b772c60948368944bc93259e20f749a[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Feb 11 14:03:42 2022 -0500
+
+    dbquery update and fixes
+
+[33mcommit d7bca319704cac13b3d6a5dfd1548a9fc9d9110e[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Feb 11 14:02:06 2022 -0500
+
+    Elvis 3nd change
+
+[33mcommit 3bf49f4454c73c9f54c6b4c4f8cd6c7af9580846[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Feb 11 13:55:57 2022 -0500
+
+    Elvis 2nd change
+
+[33mcommit 8ecbeb23eac2f81794776e8f38dd7b93f067573d[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Feb 11 13:22:48 2022 -0500
+
+    css
+
+[33mcommit c4ee2e254ef4d0e9f6e011652eea228c4cf2a5fe[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Feb 11 13:18:19 2022 -0500
+
+    Login/Signup
+
+[33mcommit 2316d7499e4b67741f51a330a57b880a72177b7f[m
+Author: Jacob Botelho <jabotelho@email.neit.edu>
+Date:   Fri Feb 11 12:55:26 2022 -0500
+
+    LOGIN CHANGES (SAME AS SIGNUP)
+
+[33mcommit d7e351fe19cfd2dc02b5332654c57bed09969fac[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Feb 11 12:51:10 2022 -0500
+
+    Elvis week6
+
+[33mcommit 8e51b3ec651def3d2a448e668719692256b40d0a[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Feb 11 12:49:39 2022 -0500
+
+    Elvis week6
+
+[33mcommit 32734a8b8b6812ec5031a1ab944b04f84087dc00[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Feb 11 12:48:19 2022 -0500
+
+    Elvis week6
+
+[33mcommit 48d2f2697efd3aca0a4abfd3841f052fda703fcc[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Feb 11 12:36:04 2022 -0500
+
+    Login/Signup
+
+[33mcommit 5d0b3fe4810f573efdb9128c3d368b2504910e7f[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Feb 11 12:12:10 2022 -0500
+
+    Login/Signup and Css
+
+[33mcommit f6305b4d725340b128b1069993e815bbcd278c9b[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Fri Feb 11 11:46:55 2022 -0500
+
+    Update SQL queries
+
+[33mcommit aa55713b84ea0da8fa2903fd7f0fb0d7c41b4829[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 8 14:47:23 2022 -0500
+
+    Signup Login
+
+[33mcommit 8fc92b555e37f5524e531cf7231370392f3cd852[m
+Merge: 34e318d d51032b
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Tue Feb 8 14:45:18 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 34e318de4804497992bd08324c97f268af1bb859[m
+Author: Lespinasse <ljlespinasse@email.neit.edu>
+Date:   Tue Feb 8 14:43:52 2022 -0500
+
+    update
+
+[33mcommit d51032bb53f5927cb1069e48f2573e384dd6c479[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 8 14:10:57 2022 -0500
+
+    Login Signup
+
+[33mcommit 18f66be5186f9c411557a2125509ad3a54d7d8f4[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 8 13:49:37 2022 -0500
+
+    Login/Signup
+
+[33mcommit cd91e28609af8d9235b52a33bd40b240096edd1c[m
+Merge: 73d8bd5 388e5a8
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Feb 8 13:34:46 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 73d8bd5f8c029365673cc409b90a401e0bc3ff75[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Feb 8 13:34:22 2022 -0500
+
+    week 5 change 2
+
+[33mcommit 388e5a8db2929a9052c1b9b56cc6423124f3072e[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 8 13:17:59 2022 -0500
+
+    Login/Signup
+
+[33mcommit 495451814a3dec9263249119d06defa934463cf7[m
+Author: AyeItsLance <77286056+AyeItsLance@users.noreply.github.com>
+Date:   Tue Feb 8 13:06:24 2022 -0500
+
+    Update dbQuery.php
+
+[33mcommit 5e6a38598a28ebbd54e272731fa0fbddd60f49c9[m
+Author: AyeItsLance <77286056+AyeItsLance@users.noreply.github.com>
+Date:   Tue Feb 8 12:55:04 2022 -0500
+
+    Update dbQuery.php
+
+[33mcommit 250d03adac7542efe02f9662c7add142bc6beaa7[m
+Author: AyeItsLance <77286056+AyeItsLance@users.noreply.github.com>
+Date:   Tue Feb 8 12:45:32 2022 -0500
+
+    Update dbQuery.php
+
+[33mcommit 5eba3484e4ded25363a3d1a3aebe10c2a47c7e03[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 8 12:13:17 2022 -0500
+
+    Fixed Bootstrap on header
+
+[33mcommit 23c8df87bb2c51634137e0b502c3c70b13455f70[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 8 12:07:58 2022 -0500
+
+    Login/Signup
+
+[33mcommit 93eecdff72240b7fbc27d2c1036bfc182923edf9[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Tue Feb 8 12:07:28 2022 -0500
+
+    week 5 changes
+
+[33mcommit 0f26867b2540ba8a8fe5b90c2db9f74e82f21ded[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 8 11:54:05 2022 -0500
+
+    Login/Signup
+
+[33mcommit 5d6a2e005ad3ec48c4974addee126c5e61d77135[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 13:58:29 2022 -0500
+
+    Reorganized Files
+
+[33mcommit dd2b071d25d15b5f0509681216abb9456abf90be[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 13:57:21 2022 -0500
+
+    Reorganized Files
+
+[33mcommit 5d3ef5b132495d5475a511417b521c745f3dcbee[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 13:55:25 2022 -0500
+
+    More links
+
+[33mcommit 3083bfc9aae019e8f3d67a33c0b6dba935a7fafc[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 13:50:11 2022 -0500
+
+    More links
+
+[33mcommit 1f7bf79df265ce245797a54f46de03eac7042760[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 13:38:23 2022 -0500
+
+    More links
+
+[33mcommit 448c1355085167b814a1402558b986c718b60268[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 13:32:37 2022 -0500
+
+    More links
+
+[33mcommit a717e91c308662ecf2bb5592ec6a0134a2c11531[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 13:12:53 2022 -0500
+
+    More links
+
+[33mcommit eac87acfff48202c2d34d997da8b08f3a6608ea4[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 13:09:34 2022 -0500
+
+    More links
+
+[33mcommit 42f70ba9c46020120565813b8c6bc24ecf8f27e7[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 13:06:50 2022 -0500
+
+    More links
+
+[33mcommit e83f999b67713ffbe35277d77af2bb49d5974d81[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 13:03:46 2022 -0500
+
+    More links
+
+[33mcommit da5cb429afa5ef2fcb519e30e9095c286de22f06[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 12:58:27 2022 -0500
+
+    More links
+
+[33mcommit 107bc9319fd34429c4a17bd115a8e9a71278ff48[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 12:55:05 2022 -0500
+
+    More links
+
+[33mcommit 3a2324ddf9716f8e2dbfc77f2c860a153922316f[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 12:52:36 2022 -0500
+
+    More links
+
+[33mcommit 35ea4cc37ae86313c6d8bedf85236a6312771406[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 12:50:46 2022 -0500
+
+    More links
+
+[33mcommit 1b604011f34a07b5887b7886527d27e29f30df40[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 12:47:50 2022 -0500
+
+    More links
+
+[33mcommit 80663c71c581311b1822dc2350fc78955246ccd3[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 12:46:27 2022 -0500
+
+    More links
+
+[33mcommit c8c3433858e938383c34631b495e9bc331444955[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 12:44:48 2022 -0500
+
+    More links
+
+[33mcommit 6b03affb6a749bf5f70ba8e2bc783e8a46dd013a[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 12:41:08 2022 -0500
+
+    Link fixes
+
+[33mcommit 464f97c567dbb9c79edb5c6006f27ce1750bdf01[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 12:29:13 2022 -0500
+
+    Fixed links
+
+[33mcommit a2093519e2768e1372c9ef967853d65ef3222058[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Mon Feb 7 12:27:26 2022 -0500
+
+    Elvis/02/07/2020
+
+[33mcommit ad573e1d9bb68fb975e40e4cb5e47c230e64aeac[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 12:10:38 2022 -0500
+
+    Reorganized Files
+
+[33mcommit 9bd97502855395941edf87d5c400d47412b69eb5[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Feb 7 11:41:57 2022 -0500
+
+    revised naming conventions
+
+[33mcommit dab5ed7ed6ac361c5cde36eb223c7743f4156994[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 14:45:54 2022 -0500
+
+    header.php
+
+[33mcommit c647a4c64596c9f4a99027588c37d43db41793b2[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 14:42:44 2022 -0500
+
+    header.php
+
+[33mcommit 00cf7389827d1e1692a696c7899c7ac371cb02c1[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 14:39:03 2022 -0500
+
+    style.css and signup.php
+
+[33mcommit e14fc5195599654492a6508de5801da4b92a911f[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 14:27:29 2022 -0500
+
+    style.css and signup.php
+
+[33mcommit 9a20459c8ac802af96718ba0878bb82633073d84[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 14:25:12 2022 -0500
+
+    style.css and signup.php
+
+[33mcommit 43051ce30920575bb4a876a2f2bb5c90917041f3[m
+Merge: 59dffbb 13a758d
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 14:20:11 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 59dffbbce01fefe489ccb1fd1c84c53d90838e67[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 14:20:01 2022 -0500
+
+    style.css and signup.php
+
+[33mcommit 13a758d9653b315962be3f5d30cc1c7a0272b07a[m
+Author: elvisbet <59568319+elvisbet@users.noreply.github.com>
+Date:   Tue Feb 1 14:04:27 2022 -0500
+
+    Update login.php
+
+[33mcommit 6b2e2e0853d005ef84cd0a2b51602203e29096d8[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 13:56:41 2022 -0500
+
+    style.css and signup.php
+
+[33mcommit 72398dbc66f66ef6ac92870c7575141038e67adf[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 13:55:02 2022 -0500
+
+    style.css and signup.php
+
+[33mcommit 90f0949a698a5eafbd40a97a33b443e9d0f4d2b8[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 13:48:11 2022 -0500
+
+    style.css and signup.php
+
+[33mcommit 36a3a64e1d1d2e941ae4a062aad0fa93a7708b81[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 13:46:16 2022 -0500
+
+    style.css and signup.php
+
+[33mcommit 7cade2d88e2b435e7b72f99666c49b395594ca7a[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 13:39:17 2022 -0500
+
+    signup.php
+
+[33mcommit 852baee2496179b4d1945cacdcc3e138b1df9320[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 13:37:58 2022 -0500
+
+    signup.php
+
+[33mcommit aebc53963c7e6222e32bd494654a8ca1a893623c[m
+Merge: 61ea054 61e1b44
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 13:35:31 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 61ea0547980f468be16172905cd03890e9dbac16[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 13:34:31 2022 -0500
+
+    signup page formatting
+
+[33mcommit 61e1b44935ba18b203a05dc7a06c4f2683aa65d4[m
+Author: jabotelho <77286881+jabotelho@users.noreply.github.com>
+Date:   Tue Feb 1 13:32:41 2022 -0500
+
+    Update nav.php
+
+[33mcommit 2c77362736d320cb904f7a2476b89e0d010e0289[m
+Author: jabotelho <77286881+jabotelho@users.noreply.github.com>
+Date:   Tue Feb 1 13:31:58 2022 -0500
+
+    Update login.php
+
+[33mcommit 56ebd9f7150d62654b953f79da032817abcc3f6a[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 13:22:23 2022 -0500
+
+    signup page nav
+
+[33mcommit fd6c47e993fbffa1d955e5c01b8558c806288708[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 11:49:30 2022 -0500
+
+    Fixed nav/header for highlights page
+
+[33mcommit c2823753de71c21f41651ed3c033f5ba72c8224f[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Tue Feb 1 11:43:28 2022 -0500
+
+    deleted duplicate icon
+
+[33mcommit dd46f27d6c4d10714fbded05894416eb4ef8f834[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Mon Jan 31 13:51:10 2022 -0500
+
+    Week 3 day 1
+
+[33mcommit f39fb9f5010b08790cbf28124767fd6275e4eb24[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Jan 28 13:58:22 2022 -0500
+
+    login page
+
+[33mcommit 886fe1306d1891d36d6a03454d1a40e6ae44c6a7[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Jan 28 13:53:55 2022 -0500
+
+    login page
+
+[33mcommit eea370e9a695c4efa14d5b8486c72aaeb9ace797[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Jan 28 13:28:44 2022 -0500
+
+    Week3 change
+
+[33mcommit 5756269f26f2e43df48015a670af59416c3d3bf1[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Jan 28 12:38:48 2022 -0500
+
+    homepage
+
+[33mcommit 6d4e62c3bf9d748f2f3ededb690c03a4839399a0[m
+Author: Elvis Kibet <ekkibet@email.neit.edu>
+Date:   Mon Jan 24 13:43:16 2022 -0500
+
+    login
+
+[33mcommit 51d85cd5c8aeffa89908882cb8b52d82dcc6457a[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Jan 24 13:40:34 2022 -0500
+
+    update
+
+[33mcommit 13996300ec2e8f236db800a1806e2ac73b7d175c[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Jan 24 13:40:11 2022 -0500
+
+    update
+
+[33mcommit d2d92b8784eba6888b1ac86e1b6b6ddc7f9b0af8[m
+Merge: 2016b5b 93b3aca
+Author: Elvis Kibet <ekkibet@email.neit.edu>
+Date:   Mon Jan 24 13:35:31 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit 2016b5b7ac8c15edbf639b0a30375f6f8e55407a[m
+Author: Elvis Kibet <ekkibet@email.neit.edu>
+Date:   Mon Jan 24 13:35:09 2022 -0500
+
+    login button
+
+[33mcommit 93b3aca1b3d82962e9b9eec2b96a4dbfb067c0e1[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Jan 24 13:33:18 2022 -0500
+
+    update
+
+[33mcommit a75f0c696829d103dba8b3835fbd3813c0243470[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Jan 24 13:32:28 2022 -0500
+
+    update
+
+[33mcommit e7a844e56e3893bbfd499bade53eb495f070ff4e[m
+Author: Elvis Kibet <ekkibet@email.neit.edu>
+Date:   Mon Jan 24 13:29:50 2022 -0500
+
+    login button
+
+[33mcommit 962e4f9709e50d2ad37742ab349594932a9c3daa[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Jan 24 12:42:13 2022 -0500
+
+    test
+
+[33mcommit 95f111b45ee88dab7eaeed28764d8da9cb2dcf19[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Jan 24 12:30:50 2022 -0500
+
+    test
+
+[33mcommit 86d2312de91628a360dc124c17040b566449b5d9[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Jan 24 12:27:00 2022 -0500
+
+    html
+
+[33mcommit 154fe7e3b57ddd4c83cec24a287a1ec2e5f97428[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Jan 24 12:22:28 2022 -0500
+
+    last fix
+
+[33mcommit 2800c6698c95d7567948fe473e1d78e42d66dde7[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Jan 24 12:21:15 2022 -0500
+
+    fix
+
+[33mcommit a9041647c17afdd6927af94d6ee269334bd030aa[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Jan 24 12:16:59 2022 -0500
+
+    reformat
+
+[33mcommit b382ee2d124951c678b2cbb97f6d6e9169364fbc[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Jan 24 12:14:58 2022 -0500
+
+    test
+
+[33mcommit 089936f73fe9ff64802568b48349d6d6af5d1813[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Jan 24 12:09:06 2022 -0500
+
+    test
+
+[33mcommit c643f990e65e6bd8ef534b16515f44fda450ec5e[m
+Author: Ramos <jdramos1@email.neit.edu>
+Date:   Mon Jan 24 12:05:27 2022 -0500
+
+    cleared 2 pages
+
+[33mcommit ecf3577ce6b861c64ed5d7798c0399cb2e926907[m
+Author: JRamosEEC <77292742+JRamosEEC@users.noreply.github.com>
+Date:   Fri Jan 21 13:37:48 2022 -0500
+
+    Rename composer.Json to composer.json
+
+[33mcommit afe2a128e4157fa6e568dba24af7fb5d4b16cab6[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Jan 21 13:35:07 2022 -0500
+
+    2nd week
+
+[33mcommit fdf16023f839a9274d98d3534e7f8557601f5b0d[m
+Author: Kibet <ekkibet@email.neit.edu>
+Date:   Fri Jan 21 13:16:20 2022 -0500
+
+    week 2 edit
+
+[33mcommit 39a510a69d97566f6e748b33b14604d00a00b082[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Mon Jan 17 14:47:20 2022 -0500
+
+    test push
+
+[33mcommit b3dd86f7082f6311b7929711b0a44e46d5a828aa[m
+Merge: dae6670 24d9db5
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Mon Jan 17 14:46:44 2022 -0500
+
+    Merge branch 'main' of https://github.com/JRamosEEC/JJLMovies-CapstoneProject
+
+[33mcommit dae66706d6b5bef435f4ddb5b0b0303cead5f694[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Mon Jan 17 14:43:17 2022 -0500
+
+    initialize
+
+[33mcommit 8a2e09489bf62038ac306e07c856d4e38b0ec5d4[m
+Author: JRamosEEC <jdramso1@email.neit.edu>
+Date:   Mon Jan 17 14:41:27 2022 -0500
+
+    initialize
+
+[33mcommit 24d9db5e57b483f238b39e929aefadea9e68a4e9[m
+Author: JRamosEEC <77292742+JRamosEEC@users.noreply.github.com>
+Date:   Mon Jan 17 14:34:05 2022 -0500
+
+    Initial commit

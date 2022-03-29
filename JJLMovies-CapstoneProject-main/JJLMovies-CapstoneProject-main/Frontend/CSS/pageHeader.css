@@ -1,0 +1,161 @@
+#pageHeader{
+    position: sticky;
+
+    top: 0;
+
+    background-color: #373B69 !important;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    height: 85px;
+    width: 100%;
+
+    z-index: 99;
+
+    padding-left: 20px;
+}
+
+/*Class is almost defunct however still assigned may remove later if we never use text buttons in header however we may want a login button with text*/
+.headerBtn{
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 15px;
+    align-items: center;
+    text-align: center;
+    border-style:none;
+}
+
+#logoContainer{
+    width: 120px;
+    min-width: 100px;
+}
+
+
+/* Search Container */
+#headerSearchContainer{
+    /*Add an extra 20 for browser scrollbar and remove on mobile*/
+    width: calc(100vw - 230px);
+}
+
+#headerSearchContainer input{
+    color: rgb(218, 218, 240);
+
+    font-size: 25px;
+}
+
+#headerSearchContainer input::placeholder{
+    color: rgb(218, 218, 240);
+}
+
+#headerSearchContainer input:focus::placeholder {
+    color: transparent;
+}
+
+
+/* Search Box */
+#headerSearchBox{
+    position: fixed;
+
+    top: 85px;
+
+    padding: 0px;
+
+    /*Add an extra 20 for browser scrollbar and remove on mobile*/
+    width: calc(40vw);
+    min-width: 420px;
+    height: 0px;
+
+    overflow-x: hidden;
+    overflow-y: scroll;
+
+    background-color: rgba(24, 26, 43, 0.95);
+
+    opacity: 0%;
+
+    transition: all 0.3s;
+    transition: opacity 0.15s;
+}
+
+#headerSearchBox.active{
+    height: 525px;
+
+    padding: 40px;
+    padding-top: 15px;
+    padding-bottom: 0px;
+
+    opacity: 100%;
+}
+
+#headerSearchBox::-webkit-scrollbar-track
+{
+	box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+	background-color: rgba(24, 26, 43, 0.95);
+}
+
+#headerSearchBox::-webkit-scrollbar
+{
+	width: 6px;
+	background-color: rgba(24, 26, 43, 0.95);
+}
+
+#headerSearchBox::-webkit-scrollbar-thumb
+{
+	background-color: #000000;
+}
+
+#searchItem{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+#searchComponentDetails {
+    height: 33.333%;
+}
+
+#searchComponentDetails * {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#loginContainer{
+    width: 50px;
+    transition: all 0.3s;
+}
+
+#headerSearch{
+    width: 90%;
+
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline: none;
+
+    border-bottom: 2px solid rgb(218, 218, 240);
+}
+
+
+/*Device Check*/
+@media (pointer:none), (pointer:coarse) {
+    #headerSearchContainer{
+        /*Add an extra 20 for browser scrollbar and remove on mobile*/
+        width: calc(100vw - 210px);
+    }
+}
+
+/*Screen size that static nav disappears on search box active expand search to take up entire top bar*/
+@media screen and (max-width: 870px) {
+    #headerSearchContainer.active{
+        width: calc(100vw - 35px);
+        padding-left: 0px;
+    }
+
+    #logoContainer.active{
+        width: 0px !important;
+        min-width: 0px;
+        overflow: hidden;
+        padding: 0px;
+    }
+}

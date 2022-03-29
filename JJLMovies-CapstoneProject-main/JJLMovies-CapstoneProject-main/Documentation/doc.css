@@ -1,0 +1,50 @@
+@charset "UTF-8"; 
+
+html, body {
+    margin:10px; 
+    height:100vh; 
+    background-image: linear-gradient(#373B69, #373B69 ); 
+   
+    
+}
+
+
+
+
+#container{
+    display: grid; 
+    grid-template-areas: "header header header header" 
+                           "bio bio bio bio" 
+                           "left left right right"
+                           "footer footer footer footer" ;
+    grid-template-columns: 24% 24% 24% 24%;
+   gap: 20px ;
+    padding:10px; 
+    height:90%; 
+    background-color: #373B69;
+}
+
+a{
+    color: white; 
+}
+
+em{
+    color: white;
+}
+h3{
+    color:white; 
+}
+ul{
+    color:white;
+}
+b{
+    color: rgb(235, 135, 135);
+}
+
+p{
+    color: white; 
+}
+
+h2{
+    color:red; 
+}
